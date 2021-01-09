@@ -1,0 +1,119 @@
+EDUCATIONAL ATTAINMENT,,,,,,,,,,,,
+,,,,,,,,,,,,
+TABLE ID:,S1501,,,,,,,,,,,
+SURVEY/PROGRAM,American Community Survey,,,,,,,,,,,
+PRODUCT:,ACS 1-Year Estimates Subject Tables,,,,,,,,,,,
+,,,,,,,,,,,,
+Note: The table shown may have been modified by user selections. Some information may be missing.,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,New York,,,,,,,,,,,
+,Total,,Percent,,Male,,Percent Male,,Female,,Percent Female,
+Label,Estimate,Margin of Error,Estimate,Margin of Error,Estimate,Margin of Error,Estimate,Margin of Error,Estimate,Margin of Error,Estimate,Margin of Error
+AGE BY EDUCATIONAL ATTAINMENT,,,,,,,,,,,,
+    Population 18 to 24 years,"1,766,731","±5,328",(X),(X),"887,762","±3,242",(X),(X),"878,969","±3,438",(X),(X)
+        Less than high school graduate,"181,143","±7,316",10.3%,±0.4,"106,179","±5,210",12.0%,±0.6,"74,964","±4,849",8.5%,±0.6
+        High school graduate (includes equivalency),"498,422","±11,990",28.2%,±0.7,"279,381","±8,345",31.5%,±0.9,"219,041","±8,235",24.9%,±0.9
+        Some college or associate's degree,"762,486","±12,801",43.2%,±0.7,"366,482","±8,282",41.3%,±0.9,"396,004","±9,572",45.1%,±1.1
+        Bachelor's degree or higher,"324,680","±9,635",18.4%,±0.5,"135,720","±5,618",15.3%,±0.6,"188,960","±7,383",21.5%,±0.8
+    Population 25 years and over,"13,664,734","±5,751",(X),(X),"6,500,808","±4,382",(X),(X),"7,163,926","±4,044",(X),(X)
+        Less than 9th grade,"795,539","±16,406",5.8%,±0.1,"370,237","±11,795",5.7%,±0.2,"425,302","±10,104",5.9%,±0.1
+"        9th to 12th grade, no diploma","898,691","±15,722",6.6%,±0.1,"451,796","±10,956",6.9%,±0.2,"446,895","±11,004",6.2%,±0.2
+        High school graduate (includes equivalency),"3,524,192","±30,882",25.8%,±0.2,"1,748,881","±22,126",26.9%,±0.3,"1,775,311","±20,124",24.8%,±0.3
+"        Some college, no degree","2,075,506","±23,985",15.2%,±0.2,"1,035,209","±16,401",15.9%,±0.3,"1,040,297","±15,316",14.5%,±0.2
+        Associate's degree,"1,204,588","±19,809",8.8%,±0.1,"520,358","±12,854",8.0%,±0.2,"684,230","±14,420",9.6%,±0.2
+        Bachelor's degree,"2,898,440","±28,311",21.2%,±0.2,"1,395,801","±17,534",21.5%,±0.3,"1,502,639","±18,888",21.0%,±0.3
+        Graduate or professional degree,"2,267,778","±25,716",16.6%,±0.2,"978,526","±15,573",15.1%,±0.2,"1,289,252","±16,497",18.0%,±0.2
+        High school graduate or higher,"11,970,504","±22,819",87.6%,±0.2,"5,678,775","±15,844",87.4%,±0.2,"6,291,729","±14,661",87.8%,±0.2
+        Bachelor's degree or higher,"5,166,218","±34,997",37.8%,±0.3,"2,374,327","±21,183",36.5%,±0.3,"2,791,891","±22,429",39.0%,±0.3
+    Population 25 to 34 years,"2,865,401","±7,090",(X),(X),"1,435,377","±4,475",(X),(X),"1,430,024","±4,223",(X),(X)
+        High school graduate or higher,"2,643,911","±11,673",92.3%,±0.3,"1,314,963","±7,702",91.6%,±0.4,"1,328,948","±7,509",92.9%,±0.4
+        Bachelor's degree or higher,"1,351,584","±16,023",47.2%,±0.6,"608,078","±11,355",42.4%,±0.8,"743,506","±10,032",52.0%,±0.7
+    Population 35 to 44 years,"2,430,106","±5,115",(X),(X),"1,197,859","±3,955",(X),(X),"1,232,247","±3,005",(X),(X)
+        High school graduate or higher,"2,172,693","±11,356",89.4%,±0.4,"1,058,785","±7,713",88.4%,±0.6,"1,113,908","±7,145",90.4%,±0.5
+        Bachelor's degree or higher,"1,066,716","±14,923",43.9%,±0.6,"473,606","±8,337",39.5%,±0.7,"593,110","±9,915",48.1%,±0.8
+    Population 45 to 64 years,"5,073,259","±5,433",(X),(X),"2,445,771","±4,202",(X),(X),"2,627,488","±3,310",(X),(X)
+        High school graduate or higher,"4,447,044","±13,916",87.7%,±0.3,"2,127,691","±9,635",87.0%,±0.4,"2,319,353","±9,720",88.3%,±0.4
+        Bachelor's degree or higher,"1,758,672","±18,662",34.7%,±0.4,"809,799","±12,076",33.1%,±0.5,"948,873","±12,136",36.1%,±0.5
+    Population 65 years and over,"3,295,968","±3,163",(X),(X),"1,421,801","±2,281",(X),(X),"1,874,167","±1,900",(X),(X)
+        High school graduate or higher,"2,706,856","±10,754",82.1%,±0.3,"1,177,336","±7,181",82.8%,±0.5,"1,529,520","±7,958",81.6%,±0.4
+        Bachelor's degree or higher,"989,246","±14,122",30.0%,±0.4,"482,844","±8,525",34.0%,±0.6,"506,402","±9,900",27.0%,±0.5
+RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT,,,,,,,,,,,,
+    White alone,"8,910,770","±20,171",(X),(X),"4,303,014","±11,720",(X),(X),"4,607,756","±12,192",(X),(X)
+        High school graduate or higher,"8,174,629","±24,160",91.7%,±0.2,"3,927,391","±14,853",91.3%,±0.2,"4,247,238","±13,120",92.2%,±0.2
+        Bachelor's degree or higher,"3,773,080","±23,511",42.3%,±0.3,"1,783,391","±14,531",41.4%,±0.4,"1,989,689","±16,183",43.2%,±0.4
+"    White alone, not Hispanic or Latino","7,894,691","±4,645",(X),(X),"3,809,484","±2,789",(X),(X),"4,085,207","±2,811",(X),(X)
+        High school graduate or higher,"7,399,414","±12,091",93.7%,±0.2,"3,552,969","±8,192",93.3%,±0.2,"3,846,445","±7,565",94.2%,±0.2
+        Bachelor's degree or higher,"3,513,139","±22,014",44.5%,±0.3,"1,664,687","±13,775",43.7%,±0.4,"1,848,452","±15,204",45.2%,±0.4
+    Black alone,"2,097,135","±10,637",(X),(X),"932,103","±7,281",(X),(X),"1,165,032","±6,753",(X),(X)
+        High school graduate or higher,"1,783,534","±14,894",85.0%,±0.5,"787,450","±10,035",84.5%,±0.7,"996,084","±9,581",85.5%,±0.6
+        Bachelor's degree or higher,"514,071","±13,007",24.5%,±0.6,"193,502","±8,487",20.8%,±0.9,"320,569","±9,739",27.5%,±0.8
+    American Indian or Alaska Native alone,"50,556","±4,439",(X),(X),"24,491","±3,101",(X),(X),"26,065","±2,650",(X),(X)
+        High school graduate or higher,"38,409","±3,323",76.0%,±3.7,"18,941","±2,365",77.3%,±5.6,"19,468","±2,326",74.7%,±5.1
+        Bachelor's degree or higher,"9,348","±1,878",18.5%,±3.3,"4,294","±1,171",17.5%,±4.5,"5,054","±1,392",19.4%,±4.8
+    Asian alone,"1,213,907","±6,070",(X),(X),"563,544","±4,213",(X),(X),"650,363","±3,497",(X),(X)
+        High school graduate or higher,"973,299","±9,196",80.2%,±0.7,"458,372","±5,857",81.3%,±0.9,"514,927","±5,697",79.2%,±0.8
+        Bachelor's degree or higher,"579,958","±9,950",47.8%,±0.8,"265,918","±6,025",47.2%,±1.0,"314,040","±6,411",48.3%,±0.9
+    Native Hawaiian and Other Pacific Islander alone,"5,020","±1,423",(X),(X),"2,315",±924,(X),(X),"2,705",±862,(X),(X)
+        High school graduate or higher,"4,132","±1,273",82.3%,±11.5,"1,895",±817,81.9%,±16.8,"2,237",±846,82.7%,±11.6
+        Bachelor's degree or higher,949,±552,18.9%,±8.8,286,±252,12.4%,±10.6,663,±477,24.5%,±14.6
+    Some other race alone,"1,060,782","±20,454",(X),(X),"517,789","±12,296",(X),(X),"542,993","±12,245",(X),(X)
+        High school graduate or higher,"721,103","±18,402",68.0%,±1.1,"351,811","±11,226",67.9%,±1.6,"369,292","±11,109",68.0%,±1.3
+        Bachelor's degree or higher,"172,193","±8,698",16.2%,±0.8,"74,407","±5,558",14.4%,±1.1,"97,786","±5,789",18.0%,±1.0
+    Two or more races,"326,564","±11,723",(X),(X),"157,552","±7,791",(X),(X),"169,012","±6,327",(X),(X)
+        High school graduate or higher,"275,398","±9,820",84.3%,±1.3,"132,915","±6,969",84.4%,±1.5,"142,483","±5,385",84.3%,±1.7
+        Bachelor's degree or higher,"116,619","±6,208",35.7%,±1.5,"52,529","±4,134",33.3%,±2.2,"64,090","±3,992",37.9%,±1.9
+    Hispanic or Latino Origin,"2,359,532","±2,901",(X),(X),"1,139,722","±2,497",(X),(X),"1,219,810","±2,143",(X),(X)
+        High school graduate or higher,"1,713,541","±17,308",72.6%,±0.7,"825,309","±10,882",72.4%,±0.9,"888,232","±10,144",72.8%,±0.8
+        Bachelor's degree or higher,"497,085","±13,842",21.1%,±0.6,"219,364","±8,614",19.2%,±0.8,"277,721","±9,419",22.8%,±0.8
+POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL,,,,,,,,,,,,
+    Less than high school graduate,(X),(X),26.2%,±0.7,(X),(X),21.7%,±0.9,(X),(X),30.4%,±1.1
+    High school graduate (includes equivalency),(X),(X),14.5%,±0.4,(X),(X),12.0%,±0.5,(X),(X),16.9%,±0.5
+    Some college or associate's degree,(X),(X),9.6%,±0.3,(X),(X),7.6%,±0.3,(X),(X),11.3%,±0.5
+    Bachelor's degree or higher,(X),(X),4.7%,±0.2,(X),(X),3.9%,±0.3,(X),(X),5.3%,±0.3
+MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2019 INFLATION-ADJUSTED DOLLARS),,,,,,,,,,,,
+    Population 25 years and over with earnings,"47,645",±477,(X),(X),"52,482",±500,(X),(X),"41,655",±217,(X),(X)
+        Less than high school graduate,"26,036",±376,(X),(X),"30,358",±487,(X),(X),"21,109",±455,(X),(X)
+        High school graduate (includes equivalency),"33,491",±700,(X),(X),"40,563",±264,(X),(X),"27,124",±352,(X),(X)
+        Some college or associate's degree,"41,421",±269,(X),(X),"50,095",±756,(X),(X),"35,792",±422,(X),(X)
+        Bachelor's degree,"62,699",±990,(X),(X),"72,237",±861,(X),(X),"55,471",±652,(X),(X)
+        Graduate or professional degree,"81,041",±581,(X),(X),"96,831","±2,101",(X),(X),"71,954",±602,(X),(X)
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+DATA NOTES,,,,,,,,,,,,
+TABLE ID,S1501,,,,,,,,,,,
+SURVEY/PROGRAM,American Community Survey,,,,,,,,,,,
+VINTAGE,2019,,,,,,,,,,,
+DATASET,ACSST1Y2019,,,,,,,,,,,
+PRODUCT:,ACS 1-Year Estimates Subject Tables,,,,,,,,,,,
+FTP URL:,None,,,,,,,,,,,
+API URL:,Download the entire table at https://api.census.gov/data/2019/acs/acs1/subject,,,,,,,,,,,
+,,,,,,,,,,,,
+USER SELECTIONS,,,,,,,,,,,,
+TOPICS,Educational Attainment,,,,,,,,,,,
+GEOS,New York,,,,,,,,,,,
+,,,,,,,,,,,,
+EXCLUDED COLUMNS,,,,,,,,,,,,
+None,,,,,,,,,,,,
+,,,,,,,,,,,,
+APPLIED FILTERS,,,,,,,,,,,,
+None,,,,,,,,,,,,
+,,,,,,,,,,,,
+APPLIED SORTING,,,,,,,,,,,,
+None,,,,,,,,,,,,
+,,,,,,,,,,,,
+WEB ADDRESS,,,,,,,,,,,,
+https://data.census.gov/cedsci/table?q=educational%20attainment&g=0400000US36&tid=ACSST1Y2019.S1501&hidePreview=true,,,,,,,,,,,,
+,,,,,,,,,,,,
+TABLE NOTES:,,,,,,,,,,,,
+"Although the American Community Survey (ACS) produces population, demographic and housing unit estimates, it is the Census Bureau's Population Estimates Program that produces and disseminates the official estimates of the population for the nation, states, counties, cities, and towns and estimates of housing units for states and counties.",,,,,,,,,,,,
+"Supporting documentation on code lists, subject definitions, data accuracy, and statistical testing can be found on the American Community Survey website in the Technical Documentation section.Sample size and data quality measures (including coverage rates, allocation rates, and response rates) can be found on the American Community Survey website in the Methodology section.",,,,,,,,,,,,
+"Source: U.S. Census Bureau, 2019 American Community Survey 1-Year Estimates",,,,,,,,,,,,
+"Data are based on a sample and are subject to sampling variability. The degree of uncertainty for an estimate arising from sampling variability is represented through the use of a margin of error. The value shown here is the 90 percent margin of error. The margin of error can be interpreted roughly as providing a 90 percent probability that the interval defined by the estimate minus the margin of error and the estimate plus the margin of error (the lower and upper confidence bounds) contains the true value. In addition to sampling variability, the ACS estimates are subject to nonsampling error (for a discussion of nonsampling variability, see ACS Technical Documentation). The effect of nonsampling error is not represented in these tables.",,,,,,,,,,,,
+"The 2019 American Community Survey (ACS) data generally reflect the September 2018 Office of Management and Budget (OMB) delineations of metropolitan and micropolitan statistical areas. In certain instances the names, codes, and boundaries of the principal cities shown in ACS tables may differ from the OMB delineations due to differences in the effective dates of the geographic entities.",,,,,,,,,,,,
+"Estimates of urban and rural populations, housing units, and characteristics reflect boundaries of urban areas defined based on Census 2010 data. As a result, data for urban and rural areas from the ACS do not necessarily reflect the results of ongoing urbanization.",,,,,,,,,,,,
+"Explanation of Symbols:An ""**"" entry in the margin of error column indicates that either no sample observations or too few sample observations were available to compute a standard error and thus the margin of error. A statistical test is not appropriate.An ""-"" entry in the estimate column indicates that either no sample observations or too few sample observations were available to compute an estimate, or a ratio of medians cannot be calculated because one or both of the median estimates falls in the lowest interval or upper interval of an open-ended distribution, or the margin of error associated with a median was larger than the median itself.An ""-"" following a median estimate means the median falls in the lowest interval of an open-ended distribution.An ""+"" following a median estimate means the median falls in the upper interval of an open-ended distribution.An ""***"" entry in the margin of error column indicates that the median falls in the lowest interval or upper interval of an open-ended distribution. A statistical test is not appropriate.An ""*****"" entry in the margin of error column indicates that the estimate is controlled. A statistical test for sampling variability is not appropriate. An ""N"" entry in the estimate and margin of error columns indicates that data for this geographic area cannot be displayed because the number of sample cases is too small.An ""(X)"" means that the estimate is not applicable or not available.",,,,,,,,,,,,
+,,,,,,,,,,,,
+COLUMN NOTES,,,,,,,,,,,,
+None,,,,,,,,,,,,
